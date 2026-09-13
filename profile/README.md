@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="CUT3" src="https://raw.githubusercontent.com/Crypto-Communism/.github/main/camera.png" height="140px"/>
+  <img alt="CUT3" src="https://raw.githubusercontent.com/Crypto-Communism/.github/main/camera.png" height="128px"/>
 </p>
 
 # CUT3 - a vibe-coding IDE for video editing and generation
